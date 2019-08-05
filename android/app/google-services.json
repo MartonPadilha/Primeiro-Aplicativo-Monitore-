@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951777552791",
+    "firebase_url": "https://ppifirestore.firebaseio.com",
+    "project_id": "ppifirestore",
+    "storage_bucket": "ppifirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951777552791:android:2b805a698a0dcba6",
+        "android_client_info": {
+          "package_name": "com.ppifirestore.ppifirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951777552791-hu6n4tt1gqq2ifacsspbnkvqu20h6fo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh2SWgArEVHRLVWvfMFbt3xnoSQnMq4HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951777552791-hu6n4tt1gqq2ifacsspbnkvqu20h6fo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
